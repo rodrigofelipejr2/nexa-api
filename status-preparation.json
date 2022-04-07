@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "description": "Em Deslocamento"
+    },
+    {
+      "id": 2,
+      "description": "Em Preparação"
+    },
+    {
+      "id": 3,
+      "description": "Finalizado"
+    }
+  ]
+}
