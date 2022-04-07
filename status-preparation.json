@@ -2,15 +2,18 @@
   "data": [
     {
       "id": 1,
-      "description": "Em Deslocamento"
+      "description": "Em Deslocamento",
+      "register": 1
     },
     {
       "id": 2,
-      "description": "Em Preparação"
+      "description": "Em Preparação",
+      "register": 1
     },
     {
       "id": 3,
-      "description": "Finalizado"
+      "description": "Finalizado",
+      "register": 0
     }
   ]
 }
